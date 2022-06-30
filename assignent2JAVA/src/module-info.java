@@ -1,0 +1,2 @@
+module assignent2JAVA {
+}
